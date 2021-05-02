@@ -1,0 +1,57 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 409.91 453.87">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.89;
+      }
+
+      .cls-2 {
+        fill: #ffff01;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #2a272b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke-width: 1.8px;
+      }
+
+      .cls-6 {
+        fill: #187ca0;
+      }
+
+      .cls-7 {
+        fill: #393b3f;
+      }
+    </style>
+  </defs>
+  <g class="cls-1">
+    <path class="cls-2" d="M451,361.9" transform="translate(-194.25 -378.65)"/>
+    <path class="cls-3" d="M451,361.9" transform="translate(-194.25 -378.65)"/>
+  </g>
+  <g class="cls-1">
+    <path class="cls-2" d="M151.18,539.78" transform="translate(-194.25 -378.65)"/>
+    <path class="cls-3" d="M151.18,539.78" transform="translate(-194.25 -378.65)"/>
+  </g>
+  <path class="cls-4" d="M451,539.78" transform="translate(-194.25 -378.65)"/>
+  <path class="cls-4" d="M150.29,539.78" transform="translate(-194.25 -378.65)"/>
+  <path class="cls-5" d="M451,540.31" transform="translate(-194.25 -378.65)"/>
+  <polygon class="cls-6" points="255.28 0 217.16 22.01 242.19 36.47 255.28 28.91 358.52 88.5 358.52 133.98 383.55 148.43 383.55 74.05 255.28 0"/>
+  <g>
+    <polygon class="cls-7" points="237.16 389.1 217.16 400.64 40 298.36 0 275.27 0 335.54 204.96 453.88 277.16 412.19 257.16 400.64 237.16 389.1"/>
+    <polygon class="cls-7" points="237.16 340.6 277.16 317.5 40 180.58 40 121.97 51.24 115.48 60.03 110.41 102.03 86.16 142.03 63.07 184.03 38.82 144.03 15.72 102.03 39.97 62.03 63.06 20.03 87.31 0 98.88 0 157.49 0 203.68 40 226.77 237.16 340.6"/>
+    <polygon class="cls-7" points="369.91 194.63 184.03 87.31 144.03 110.41 369.91 240.82 369.91 312.45 361.16 317.5 319.16 341.75 279.16 364.85 237.16 389.1 277.16 412.19 319.16 387.94 359.16 364.85 401.16 340.6 409.91 335.54 409.91 263.92 409.91 217.73 369.91 194.63"/>
+  </g>
+  <g class="cls-1">
+    <path class="cls-2" d="M670.71,556.54" transform="translate(-194.25 -378.65)"/>
+    <path class="cls-3" d="M670.71,556.54" transform="translate(-194.25 -378.65)"/>
+  </g>
+  <path class="cls-4" d="M669.82,556.54" transform="translate(-194.25 -378.65)"/>
+</svg>
